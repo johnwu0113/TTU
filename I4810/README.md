@@ -1,1 +1,4 @@
-# Py4e Exercise
+# I4810 
+## [HW#1](https://github.com/johnwu0113/TTU/blob/main/I4810/AI%E4%BD%9C%E6%A5%AD1_%E8%B3%87%E5%B7%A5%E7%B3%BB%E4%B8%80%E5%B9%B4%E7%B4%9A_711106013_%E5%B7%AB%E5%98%89%E6%A6%AE.ipynb)
+
+## [HW#]
